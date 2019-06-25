@@ -5,5 +5,4 @@
 
 | YouTube Title                                     | Date posted   | Folder name  |
 | ---------------------------------------------     |:-------------:| ------------:|
-| Scripting Perfectly Colliding Arrays of Spheres          | 1/1/19 | FallingSpheres |
-| Scripting Perfectly Colliding Arrays of Spheres          | 1/1/19 | FallingSpheres |
+| Scripting Perfectly Colliding Arrays of Spheres   | 6/30/19       | FallingSpheres |
