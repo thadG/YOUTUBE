@@ -2,12 +2,8 @@
 
 # All of the blender python scripts described on the channel are available here.
 
-# The YOUTUBE video "Scripting Perfectly Colliding Arrays of Spheres" can be found in folder"FallingSpheres"
 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
+| YouTube Title                                     | Date posted   | Folder name  |
+| ---------------------------------------------     |:-------------:| ------------:|
+| Scripting Perfectly Colliding Arrays of Spheres          | 1/1/19 | FallingSpheres |
+| Scripting Perfectly Colliding Arrays of Spheres          | 1/1/19 | FallingSpheres |
